@@ -21,4 +21,10 @@
         android:id="@+id/btn_permission"
         android:text="@string/check_sms_permission"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_download"
+        android:text="@string/download_file"/>
+
 </LinearLayout>
